@@ -15,7 +15,7 @@ Each child i has a greed factor g[i], which is the minimum size of a cookie that
 4. Otherwise, try a bigger cookie by moving the cookie pointer forward.
 5. Continue until one list is exhausted and return the number of satisfied children.
 
-#### Developed By: Divyashree
+#### Developed By: Divyashree V
 
 #### Register Number: 212223230051
 
